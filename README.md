@@ -147,7 +147,7 @@ describe('angularjs homepage', function() {
 # 总结
 
 * 以上涉及的源码已提交到Git: [https://github.com/aimer1124/protractorWithPageObject.git](https://github.com/aimer1124/protractorWithPageObject.git),便于查阅
-* `Protractor`支持`ETE`测试，特别是针对`AngularJS`的项目
+* `Protractor`支持`E2E`测试，特别是针对`AngularJS`的项目
 * `Protractor的webdriver-manager`将`webdriver`统一管理，减少测试人员在使用过程中针对`webdriver`的管理操作，将主要精力集中于`ETE`的测试
 
 # 参考
