@@ -39,7 +39,7 @@ Protractor runs tests against your application running in a real browser, intera
 	  clean: removes all downloaded driver files from the out_dir
 	```
 
-#  End To End Testing
+#  End2End Testing
 ## 页面分析-[Page Object](http://martinfowler.com/bliki/PageObject.html)
 * 页面地址： [https://www.angularjs.org/](https://www.angularjs.org/)
 * 功能
@@ -148,7 +148,7 @@ describe('angularjs homepage', function() {
 
 * 以上涉及的源码已提交到Git: [https://github.com/aimer1124/protractorWithPageObject.git](https://github.com/aimer1124/protractorWithPageObject.git),便于查阅
 * `Protractor`支持`E2E`测试，特别是针对`AngularJS`的项目
-* `Protractor的webdriver-manager`将`webdriver`统一管理，减少测试人员在使用过程中针对`webdriver`的管理操作，将主要精力集中于`ETE`的测试
+* `Protractor的webdriver-manager`将`webdriver`统一管理，减少测试人员在使用过程中针对`webdriver`的管理操作，将主要精力集中于`E2E`的测试
 
 # 参考
 
